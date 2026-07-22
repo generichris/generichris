@@ -98,7 +98,7 @@ nothing here is professional work.
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=generichris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=generichris&repo=chris-os&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=generichris&repo=OmoriMod&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=K3LV0N&repo=OmoriMod&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=generichris&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
