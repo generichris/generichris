@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=chris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=hobbyist%20programmer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=reverse+engineering+%2B+low+level+coding;whatever+interests+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=rreverse+engineering+%2B+low+level+codingg;whatever+interests+me" alt="Typing SVG" />
 </a>
 
 <br>
