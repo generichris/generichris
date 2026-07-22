@@ -2,7 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=chris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=hobbyist%20programmer&descAlignY=55&descSize=18)
 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=reverse+engineering+%2B+low+level+code;whatever+interests+me" alt="Typing SVG" /> 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=reverse+engineering+%2B+low+level+code;whatever+interests+me" alt="Typing SVG" />
 </a>
 
 <br>
@@ -32,6 +33,7 @@ right now i'm mostly drawn to:
 nothing here is professional work.
 
 <br clear="right"/>
+
 ---
 
 ## tech stack
@@ -88,12 +90,15 @@ nothing here is professional work.
 
 ---
 
-## github analytics
+## analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=generichris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generichris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=generichris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=generichris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=generichris&repo=chris-os&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=generichris&repo=OmoriMod&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=generichris&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
