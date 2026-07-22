@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=chris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=hobbyist%20programmer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=chris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=hobbyist%20programmer%20%7C%20curious%20by%20default&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=reverse+engineering+%2B+low-level+code;operating+systems+%26+Linux+internals;building+whatever+interests+me" alt="Typing SVG" />
@@ -21,7 +21,7 @@
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 
-i'm a hobbyist programmer who doesn't stick to one category. i build whatever interests me at the time, whether that's poking around an old game's files, trying to understand how an operating system boots, or just breaking something to see how it works.
+i'm a hobbyist programmer. i build whatever interests me at the time.
 
 right now i'm mostly drawn to:
 
@@ -30,9 +30,8 @@ right now i'm mostly drawn to:
 - low-level programming
 - Linux
 - game modding
-- experimenting with software
 
-nothing here is professional work, it's just where my curiosity has taken me so far.
+nothing here is professional work.
 
 <br clear="right"/>
 
@@ -55,14 +54,6 @@ nothing here is professional work, it's just where my curiosity has taken me so 
 ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
 ![Docker](https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
 ![Linux](https://img.shields.io/badge/Linux-A78BFA?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a2e)
-
----
-
-## ai / ml
-
-| area | experience | details |
-|------|------------|---------|
-| machine learning | experimenting | tinkering with ML concepts on my own, no formal or professional background |
 
 ---
 
@@ -127,7 +118,5 @@ nothing here is professional work, it's just where my curiosity has taken me so 
 
 *"I think, therefore I am."*
 **— René Descartes**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
