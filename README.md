@@ -119,4 +119,6 @@ nothing here is professional work.
 *"I think, therefore I am."*
 **— René Descartes**
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
 </div>
