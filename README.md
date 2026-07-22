@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=chris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=hobbyist%20programmer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=reverse+engineering+%2B+low-level+code;operating+systems+%26+Linux+internals;building+whatever+interests+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=reverse+engineering+%2B+low-level+code;whatever+interests+me" alt="Typing SVG" />
 </a>
 
 <br>
@@ -11,7 +11,6 @@
 ![Location](https://img.shields.io/badge/location-canada-6D28D9?style=flat-square&labelColor=1a1a2e)
 [![Portfolio](https://img.shields.io/badge/portfolio-badasswizard.boats-8B5CF6?style=flat-square&labelColor=1a1a2e)](https://badasswizard.boats/)
 [![GitHub](https://img.shields.io/badge/github-generichris-A78BFA?style=flat-square&labelColor=1a1a2e&logo=github)](https://github.com/generichris)
-![Profile Views](https://komarev.com/ghpvc/?username=generichris&style=flat-square&color=6D28D9&label=profile+views)
 
 </div>
 
@@ -34,7 +33,6 @@ right now i'm mostly drawn to:
 nothing here is professional work.
 
 <br clear="right"/>
-
 ---
 
 ## tech stack
