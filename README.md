@@ -9,7 +9,6 @@
 <br>
 
 ![Location](https://img.shields.io/badge/location-canada-6D28D9?style=flat-square&labelColor=1a1a2e)
-[![Portfolio](https://img.shields.io/badge/portfolio-badasswizard.boats-8B5CF6?style=flat-square&labelColor=1a1a2e)](https://badasswizard.boats/)
 [![GitHub](https://img.shields.io/badge/github-generichris-A78BFA?style=flat-square&labelColor=1a1a2e&logo=github)](https://github.com/generichris)
 
 </div>
